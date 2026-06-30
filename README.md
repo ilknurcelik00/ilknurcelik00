@@ -50,7 +50,7 @@
 <br>
 
 <p align="center">
-  <i>"Kod yazmak sanattır, algoritma ise onun ritmi."</i> 🪄
+  <i>""</i> 
 </p>
 
 <div align="center">
