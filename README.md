@@ -6,9 +6,9 @@
 
 <br>
 
-- [cite_start]🎓 **Istanbul Health and Technology University** [cite: 38]
-- [cite_start]💻 **Software Engineering & Mechatronics Engineering Student (Double Major)** 
-- [cite_start]🚀 **T3 AI Undergraduate Researcher & 42 Istanbul Student** [cite: 52, 54]
+- 🎓 **Istanbul Health and Technology University**
+- 💻 **Software Engineering & Mechatronics Engineering Student (Double Major)** 
+- 🚀 **42 Istanbul Student** 
 
 <br>
 
@@ -42,10 +42,10 @@
 
 ### Highlighted Projects 📂
 
-- [cite_start]🤖 **TÜBİTAK-2209A** - UAV-UGV Real-Time Communication & Coordinate Route Planning [cite: 91, 93]
-- [cite_start]💡 **Idea Hub** - A web-based platform connecting entrepreneurs and investors (Django) [cite: 88, 90]
-- [cite_start]🧠 **Learning** - AI-powered and gamified English learning app with a chatbot (Java) [cite: 99, 102]
-- [cite_start]🍳 **Hey Gusto!** - Time management and memory mobile game developed for Game Jam (Unity) [cite: 103, 105, 106]
+- 🤖 **TÜBİTAK-2209A** - UAV-UGV Real-Time Communication & Coordinate Route Planning 
+- 💡 **Idea Hub** - A web-based platform connecting entrepreneurs and investors (Django) 
+- 🧠 **Learning** - AI-powered and gamified English learning app with a chatbot (Java) 
+- 🍳 **Hey Gusto!** - Time management and memory mobile game developed for Game Jam (Unity)
 
 <br>
 
